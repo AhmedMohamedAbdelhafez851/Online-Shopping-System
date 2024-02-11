@@ -1,7 +1,7 @@
 An-E-commerce-app-with-.Net-Core
-##building an e-commerce app with Asp .Net Core MVc To Manage Data Of Users . 
+## building an e-commerce app with Asp .Net Core MVc To Manage Data Of Users . 
 
-Used in this Project
+## Used in this Project
 • I use sql server to build database for this project.
 
 • Build this project using MVC architecture pattern
@@ -26,7 +26,7 @@ Used in this Project
 
 • Using JWT to secure Api.
 
-##Here are some of the things I learned from this project:
+## Here are some of the things I learned from this project:
 Setting up the developer environment
 
 Creating a multi project .net core application using the dotnet .
